@@ -9,10 +9,10 @@
 
 ---
 ## Datasets and Resources:
-- (Countries Coordination)[https://developers.google.com/public-data/docs/canonical/countries_csv]
-- (Forigen Exchange Rate 2000-2019)[https://www.kaggle.com/datasets/brunotly/foreign-exchange-rates-per-dollar-20002019]
-- (FX Rate API)[https://www.exchangerate-api.com/docs/python-currency-api]
-- (Twilio SMS API)[https://www.twilio.com/docs/sms/quickstart/python]
+- [Countries Coordination](https://developers.google.com/public-data/docs/canonical/countries_csv)
+- [Forigen Exchange Rate 2000-2019](https://www.kaggle.com/datasets/brunotly/foreign-exchange-rates-per-dollar-20002019)
+- [FX Rate API](https://www.exchangerate-api.com/docs/python-currency-api)
+- [Twilio SMS API](https://www.twilio.com/docs/sms/quickstart/python)
 
 ---
 ## Project Goals:
