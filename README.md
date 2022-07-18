@@ -1,4 +1,5 @@
-# Forign Exchnage (FX) Assistant - July 2022
+# Analyze optimal neighborhood to open up a new location for Motorino in Toronto
+## July 2022 - FINTEC BootCamp Project 1
 
 ---
 ## Team Members:
@@ -9,15 +10,37 @@
 
 ---
 ## Datasets and Resources:
-- [Countries Coordination](https://developers.google.com/public-data/docs/canonical/countries_csv)
-- [Forigen Exchange Rate 2000-2019](https://www.kaggle.com/datasets/brunotly/foreign-exchange-rates-per-dollar-20002019)
-- [FX Rate API](https://www.exchangerate-api.com/docs/python-currency-api)
-- [Twilio SMS API](https://www.twilio.com/docs/sms/quickstart/python)
+- Toronto Neighbourhood Data - Toronto City Open Data
+- Toronto Neighbourhood Income - Toronto City Open Data
+- Toronto Crime Data - Toronto City Open Data
+- Toronto Ethnicity Data - Toronto City Open Data Json API
+- Toronto Restaurant Data - Foursquare Place API 
+
 
 ---
-## Project Goals:
-- build interactive map interface showing the real-time fx rates between selected countries
-- connect to twilio to send out results via SMS messages
-- suggest shortest (cheapest) rout for exchange 2 currencies 
+## Project Description:
+- Examine average real-estate leasing prices
+- Compare neighborhood income, population density, ethnicity & crime rates
+- Check for ratings of other restaurants in every area & search for areas of less competition in same category
+- Project future restaurant sales (using historical sales data for restaurant in similar category)
+- 
 
+
+## Methology 
+
+
+
+
+
+## Results
+
+
+
+
+
+## Conclusion:
+
+
+
+## File and Codes:
 
