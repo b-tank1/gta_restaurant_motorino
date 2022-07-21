@@ -15,6 +15,7 @@
 - Toronto Ethnicity Data - Toronto City Open Data
 - Toronto Crime Data - Toronto City Open Data
 - Toronto Restaurant Data - Foursquare Place API 
+- Toronto Lease Prices - Webscraper
 
 
 ---
@@ -23,7 +24,6 @@
 - Compare neighborhood income, population density, ethnicity & crime rates
 - Check for other restaurants in every area & search for areas of less competition in same category
 - Project future restaurant sales (using historical sales data for restaurant in similar category)
-- 
 
 
 ## Methology 
