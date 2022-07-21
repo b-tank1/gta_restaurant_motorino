@@ -12,8 +12,8 @@
 ## Datasets and Resources:
 - Toronto Neighbourhood Data - Toronto City Open Data
 - Toronto Neighbourhood Income - Toronto City Open Data
+- Toronto Ethnicity Data - Toronto City Open Data
 - Toronto Crime Data - Toronto City Open Data
-- Toronto Ethnicity Data - Toronto City Open Data Json API
 - Toronto Restaurant Data - Foursquare Place API 
 
 
@@ -21,7 +21,7 @@
 ## Project Description:
 - Examine average real-estate leasing prices
 - Compare neighborhood income, population density, ethnicity & crime rates
-- Check for ratings of other restaurants in every area & search for areas of less competition in same category
+- Check for other restaurants in every area & search for areas of less competition in same category
 - Project future restaurant sales (using historical sales data for restaurant in similar category)
 - 
 
